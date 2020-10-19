@@ -1,4 +1,4 @@
-# Create Blockchain Project
+# Build Blockchain Project
 
 In this project I completed an Udemy course and builded a blockchain and cryptocurrency. The blockchain is programmed in object-oriented way.The project is coded using Javascript. For API operations I used Postman application.
 
